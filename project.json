@@ -1,0 +1,7 @@
+{
+  "name": "CS2-ONLINE Gameplay Core",
+  "version": [0, 1, 0],
+  "target": "Minecraft Bedrock / PE 26.45",
+  "modules": ["actual-guns", "cso2-dlc", "ragdoll", "gore-vfx", "parkour"],
+  "excluded": ["npc", "heist", "flashlight", "hud", "minimap", "block-destruction"]
+}
