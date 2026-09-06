@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+vendor/*.mcaddon
+vendor/*.mcpack
+releases/*.mcaddon
+releases/*.mcpack
